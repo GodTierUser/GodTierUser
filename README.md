@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Rain! 🌧️
 
-<!--
-**RainInJP/RainInJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently on a journey of personal growth and self-discovery, taking time to focus on myself and my needs.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a university student exploring new interests and working on improving my personal productivity and well-being. After spending a lot of time helping others, I've decided to turn my attention inward and prioritize my own growth.
+
+- 🌱 **Currently Focusing On**: Personal development, self-care, and mental well-being.
+- 🎮 **Interests**: Gaming, Reading, Drawing, Singing, Horror Films.
+- 💬 **Ask me about**: Gaming, Books, Horror Films.
+
+## Get In Touch
+
+- **Email**: [RainV2@proton.me](mailto:RainV2@proton.me)
+- **LinkedIn**: [My LinkedIn](https://linkedin.com/in/niar)
+
+## Fun Facts
+
+- 📚 I enjoy reading.
+- 🪂 I'm always up for a good battle royale.
+
+---
+
+*Thanks for visiting my profile! I'm focusing on my personal journey right now, but feel free to reach out if you'd like to connect.* 😊
