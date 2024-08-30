@@ -13,6 +13,7 @@ I'm a university student exploring new interests and working on improving my per
 ## Get In Touch
 
 - **Email**: [RainV2@proton.me](mailto:RainV2@proton.me)
+- **Gravatar**: [@GodTierUser](https://gravatar.com/godtieruser)
 
 ## Fun Facts
 
