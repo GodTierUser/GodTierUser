@@ -1,4 +1,4 @@
-# Hi, I'm Rain! 🌧️
+# Hi, I'm Riri! 🌧️
 
 Welcome to my GitHub profile! I'm currently on a journey of personal growth and self-discovery, taking time to focus on myself and my needs.
 
